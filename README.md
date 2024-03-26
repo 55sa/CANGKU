@@ -1,38 +1,38 @@
-# 基于spring boot的中小型仓库物流管理系统(springboot+mybatis-plus+shiro+mysql+layui前端框架)
-## 技术栈使用
-后端：springboot、mybatis-plus、shiro
+# Small and medium-sized warehouse logistics management system based on spring boot (springboot+mybatis-plus+shiro+mysql+layui front-end framework)
+## Technology stack usage
+Backend: springboot, mybatis-plus, shiro
 
-前端：layUI
+Frontend:layUI
 
-存储：mysql
+Storage: mysql
 
-## 主要功能实现：
+## Main function implementation:
 
-1.基础管理：商品管理、客户管理、供应商管理；
+1. Basic management: commodity management, customer management, supplier management;
 
-2.物流管理：进货管理、发货管理、交付管理；
+2. Logistics management: purchase management, shipment management, delivery management;
 
-3.系统管理：菜单管理、部门管理；
+3. System management: menu management, department management;
 
-4.人事管理：权限管理、角色管理、用户管理；
+4. Personnel management: authority management, role management, user management;
 
-5.其他：
+5. Others:
 
 
-## 安装步骤：
+## installation steps:
 
-1.git克隆或者直接下载
+1.git clone or download directly
 
-2.运行sql目录下的warehouse.sql文件
+2. Run the warehouse.sql file in the sql directory
 
-3.启动项目后运行locahost:8080跳转到登录界面即可
+3. After starting the project, run locahost:8080 to jump to the login interface.
 
-切换端口或者修改数据库、shiro配置信息进入application.yml文件修改
+Switch the port or modify the database and shiro configuration information into the application.yml file to modify
 
-管理员账号：system  密码：123456 验证码输入：注意验证码字母要大写
+Administrator account: system Password: 123456 Verification code input: Note that the verification code letters must be capitalized
 
-## 功能展示：
+## function display:
 
-登录界面：![登录界面.png](https://s2.loli.net/2022/08/03/RQvBPIWNL1pVyeh.png)
+Login interface:![Login interface.png](https://s2.loli.net/2022/08/03/RQvBPIWNL1pVyeh.png)
 
-功能界面：![功能界面.png](https://s2.loli.net/2022/08/03/gKi8TM52HoaR4lu.png)
+Function interface: ![Function interface.png](https://s2.loli.net/2022/08/03/gKi8TM52HoaR4lu.png)
